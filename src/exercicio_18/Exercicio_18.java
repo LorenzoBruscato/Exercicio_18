@@ -2,7 +2,6 @@ package exercicio_18;
 
 import javax.swing.JOptionPane;
 
-
 public class Exercicio_18 {
 
     public static void main(String[] args) {
@@ -17,7 +16,7 @@ public class Exercicio_18 {
             case 'a' ->
                 r = preco - (preco * 0.10);
             case 'b' ->
-                r =  preco - (preco * 0.15);
+                r = preco - (preco * 0.15);
             case 'c' ->
                 r = preco - (preco * 0.20);
             case 'd' ->
