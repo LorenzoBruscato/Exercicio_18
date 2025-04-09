@@ -27,7 +27,7 @@ public class Exercicio_18 {
                 JOptionPane.showMessageDialog(null, "Opção inválida!");
         }
         if (controleCHAR >= 'a' && controleCHAR <= 'e') {
-            JOptionPane.showMessageDialog(null, nome + ", o valor total a pagar é: " + r);
+            JOptionPane.showMessageDialog(null, nome + "\n" +"O valor total a pagar é: " + r);
         }
     }
 }
