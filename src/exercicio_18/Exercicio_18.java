@@ -2,6 +2,10 @@ package exercicio_18;
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Lorenzo
+ */
 public class Exercicio_18 {
 
     public static void main(String[] args) {
